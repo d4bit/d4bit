@@ -2,7 +2,8 @@
 <p>🎓 Computer Engineer from the renowned University of Granada 🏫 </p>
 <p> 💻 Technology enthusiast with hands-on experience in top programming languages: Python 🐍, C++ 🚀, Java ☕, and JavaScript 🌐  </p>
 <p> ☁️ Salesforce expert mastering its ecosystem 💼, continuous integration 🔄, and the cutting-edge field of artificial intelligence 🤖 </p>
-<p> 🚀 Innovative, curious, and always learning 💡. My passion for technology drives me to explore new tools, frameworks, and trends to stay ahead of the curve 🌎🔍 </p>
+<p> 🚀 Innovative, curious, and always learning 💡. 
+<p> My passion for technology drives me to explore new tools, frameworks, and trends to stay ahead of the curve 🌎🔍 </p>
 <p> ✨ Dedicated to high-impact projects that turn ideas into reality and power digital transformation 💡📈 </p>
 <p> 🤝 Always open to exciting opportunities to collaborate on challenging projects that push technology to the next level! 🌟</p>
 <h2>💻 Tech Stack: </h2>
